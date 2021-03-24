@@ -13,3 +13,8 @@ npm install @angular/animations@6.1.7 --save --legacy-peer-deps
 npm install hammerjs@2.0.8 --save
 npm install --save @angular/flex-layout@6.0.0-beta.18
 
+
+
+After pasting images folder in src/assets, run "ng generate component menu" in terminal
+This creates menu folder in src/app and also adds following import in app.components.ts
+import { MenuComponent } from './menu/menu.component';
