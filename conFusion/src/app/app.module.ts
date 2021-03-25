@@ -35,3 +35,4 @@ import { DishdetailComponent } from './dishdetail/dishdetail.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
